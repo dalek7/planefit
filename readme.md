@@ -6,10 +6,11 @@ A total least squares problem refers to determining the vector x which minimizes
 
 It is the right singular vector that minimizes the "orthogonal" [2]. 
 
+[![YOUTUBE](https://img.youtube.com/vi/A5CIca5gVyI/0.jpg)](https://www.youtube.com/watch?v=A5CIca5gVyI)
 
-<img src='images/plane1.png' />
+<img src='images/plane1.png' width='400'/>
 
-<img src='images/plane2.png' />
+<img src='images/plane2.png' width='400'/>
 
 
 ## References
